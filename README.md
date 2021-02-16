@@ -2,7 +2,7 @@
 
 I have tagged and described my repo's to help you navigate, but even better, I have made a list below of the projects I want you to see below.
 
-## My Portfolio Projects (make sure to look at these, they are also pinned right below this):
+## My Portfolio Projects (make sure to look at these, they also should be pinned right below this):
 
 Avarice Sheets ([repo](https://github.com/avaricegame/avarice-sheets), [live](https://avarice-sheets.netlify.app/))
 
